@@ -15,10 +15,11 @@ Example :
 
 eksctl create cluster \
     --name my-eks-cluster \
+    -- version 1.28 \
     --region us-east-1 \
     --nodegroup-name standard-workers \
     --node-type t3.medium \
-    --nodes 3 \
+    --nodes 2 \
     --nodes-min 2 \
     --nodes-max 4 \
     --managed
