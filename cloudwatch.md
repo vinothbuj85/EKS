@@ -16,5 +16,5 @@ Main features
 6.  Log insights -  This specfic service try to access other Ec2 or s3 etc
 7.  Scaling -  
  
-   Note : cloudwatch does not monitor the Memmory utilization.
+   Note : cloudwatch does not monitor the Memmory utilization.,
    
