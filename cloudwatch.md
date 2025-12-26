@@ -6,7 +6,7 @@ Which helps to understanding and Implementing.
 3. Reporting
 4. Logging
    
-Using this features of cloudwatch you can keep track of activities that are happening in AWS account.
+Using those features of cloudwatch you can keep track of activities that are happening in AWS account.
 
 Main features
 1. Monitorig
