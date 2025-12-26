@@ -4,7 +4,8 @@ Which helps to understanding and Implementing.
 1. Monotoring
 2. Alerting
 3. Reporting
-4. Logging 
+4. Logging
+   
 Using this features of cloudwatch you can keep track of activities that are happening in AWS account.
 
 Main features
